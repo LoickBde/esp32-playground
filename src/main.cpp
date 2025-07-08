@@ -1,4 +1,4 @@
-#include "../lib/touch/touch.h"
+#include "../lib/analogRead/analogRead.h"
 
 
 void setup() {
